@@ -33,6 +33,7 @@ El objetivo es comparar cómo cada enfoque resuelve el mismo dominio: catálogo,
 ---
 
 ## 📂 Estructura del repositorio
+---
 techzone/
 ├── scala/
 ├── prolog/
