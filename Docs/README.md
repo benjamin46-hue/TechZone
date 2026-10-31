@@ -34,13 +34,15 @@ El objetivo es comparar cómo cada enfoque resuelve el mismo dominio: catálogo,
 
 ## 📂 Estructura del repositorio
 ---
-techzone/
-├── scala/
-├── prolog/
-├── python/
-├── docs/
-└── README.md
 
+```
+techzone/
+├── scala/              # Scripts y código funcional (.scala)
+├── prolog/             # Base de conocimiento y reglas (.pl)
+├── python/             # Scripts y módulo multiparadigma (.py)
+├── docs/               # Informe final y documentación
+└── README.md           # Documentación principal del repositorio
+```
 ---
 
 ## 👥 Integrantes
