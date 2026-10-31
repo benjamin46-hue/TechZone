@@ -1,0 +1,28 @@
+# Scala / SBT
+/target/
+/project/project/
+/project/target/
+.bin/
+.ivy2/
+.coursier/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Prolog (swipl / SWI-Prolog temporales)
+*.history
+*.stack
+
+# IDEs y Editores (IntelliJ, VS Code)
+.idea/
+.vscode/
+*.iml
+.DS_Store
